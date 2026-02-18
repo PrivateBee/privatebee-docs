@@ -89,8 +89,7 @@ For issue templates, you can **add new ones** by creating a new **.yml file** fo
 
 #### Purpose 
 
-<!-- TODO: mettre le lien du template -->
-The [privatebee-template]() repository serves as a **template for creating new repositories**. 
+The [privatebee-template](https://github.com/PrivateBee/privatebee-template) repository serves as a **template for creating new repositories**. 
 
 This template provides **essential files** that should be in every repository, such as the **license**, **governance documents**, **code of conduct**, and more.
 
