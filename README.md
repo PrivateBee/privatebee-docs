@@ -31,6 +31,7 @@ privatebee-docs/
 ├── CODE_OF_CONDUCT.md              -> Expected behavior guidelines
 ├── CONTRIBUTING.md                 -> Guidelines for contributing
 ├── CONVENTIONS.md                  -> Coding standards and conventions
+├── GITIGNORE-TUTORIAL.md           -> .gitignore purpose and usage guide
 ├── GIT-GITHUB-WORKFLOW-TUTORIAL.md -> Git and GitHub workflow guide
 ├── GOVERNANCE.md                   -> Project governance structure
 ├── LICENSE.md                      -> Project license
@@ -70,6 +71,8 @@ The **coding conventions** for this project are described in [CONVENTIONS.md](./
 ## Git & GitHub Workflow Tutorial
 
 To learn everything about using Git, GitHub, and the workflow you need to follow, please refer to the [GIT-GITHUB-WORKFLOW-TUTORIAL](./GIT-GITHUB-WORKFLOW-TUTORIAL.md) file.
+
+For a focused guide on `.gitignore`, see [GITIGNORE-TUTORIAL.md](./GITIGNORE-TUTORIAL.md).
 
 ---
 
