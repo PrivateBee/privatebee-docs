@@ -31,7 +31,6 @@ privatebee-docs/
 ├── CODE_OF_CONDUCT.md              -> Expected behavior guidelines
 ├── CONTRIBUTING.md                 -> Guidelines for contributing
 ├── CONVENTIONS.md                  -> Coding standards and conventions
-├── GITIGNORE-TUTORIAL.md           -> .gitignore purpose and usage guide
 ├── GIT-GITHUB-WORKFLOW-TUTORIAL.md -> Git and GitHub workflow guide
 ├── GOVERNANCE.md                   -> Project governance structure
 ├── LICENSE.md                      -> Project license
