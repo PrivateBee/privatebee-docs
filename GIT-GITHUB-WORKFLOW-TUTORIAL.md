@@ -1,3 +1,5 @@
+<!-- TODO: ajouter règle pour pipeline windows/ubuntu -->
+
 # Git & GitHub Workflow Tutorial
 
 This tutorial provides a clear, step-by-step workflow for using Git and GitHub in the Private Bee project. It covers setup, branching, commits, pull requests, and collaboration best practices so you can contribute safely and consistently.
