@@ -32,6 +32,7 @@ privatebee-docs/
 ├── CONTRIBUTING.md                 -> Guidelines for contributing
 ├── CONVENTIONS.md                  -> Coding standards and conventions
 ├── GIT-GITHUB-WORKFLOW-TUTORIAL.md -> Git and GitHub workflow guide
+├── GITIGNORE-TUTORIAL.md           -> Guide on using .gitignore effectively
 ├── GOVERNANCE.md                   -> Project governance structure
 ├── LICENSE.md                      -> Project license
 ├── README.md                       -> Project overview and documentation
