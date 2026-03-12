@@ -61,6 +61,16 @@ As for the naming conventions, you can apply the following advice for your proje
 
 The most important aspect of naming conventions is **consistency**. Indeed, it is important to agree on a naming convention for files and directories with your team and apply it uniformly **throughout the project**.
 
+## Repository
+
+The repository name should be:
+
+1. **Linked to the project:** It should always start with the project name (for example, `privatebee-gps`, `privatebee-api`, etc.)
+2. **Descriptive:** It should reflect the purpose of the project
+3. **Lowercase:** Use lowercase letters to avoid issues on case-sensitive filesystems
+4. **Hyphen-separated:** Use hyphens to separate words for better readability
+5. **Short and concise:** Keep it as short as possible while still being descriptive
+
 #### File
 
 Refer to the [General Naming Conventions](#general-naming-conventions) section for available naming styles. For files specifically, keep these guidelines in mind:
@@ -193,7 +203,8 @@ Commit message prefixes clarify the purpose of each commit at a glance. Use the 
 1. **Feature Commit (`feat:`):** For developing new features. Example: `feat: added new feature somewhere`
 2. **Bugfix Commit (`fix:`):** For fixing bugs and issues. Example: `fix: fixed a bug somewhere`
 3. **Documentation Commit (`docs:`):** For writing or updating documentation. Example: `docs: api-reference`
-4. **Merge Commit (`Merge branch '<branch name>'`):** For merging a branch. Example: `Merge branch 'Bugfix'`
+4. **Miscellaneous Commits (`chore:`, `refactor:`, `test:`, etc.)**: For other types of work. Examples: `chore: update dependencies`, `refactor: improve code structure`, `test: add unit tests`
+5. **Merge Commit (`Merge branch '<branch name>'`):** For merging a branch. Example: `Merge branch 'Bugfix'`
 
 ### Scope
 
