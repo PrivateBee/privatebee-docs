@@ -36,6 +36,8 @@ privatebee-docs/
 ├── GOVERNANCE.md                   -> Project governance structure
 ├── LICENSE.md                      -> Project license
 ├── README.md                       -> Project overview and documentation
+├── Guide utilisation, Gestion et Workflow GitHub.pdf -> Guide for using GitHub and managing the project
+├── Guide utilisation Discord.pdf   -> Guide for using Discord for communication
 └── .github/
 	├── PULL_REQUEST_TEMPLATE.md    -> Generic pull request template
 	└── ISSUE_TEMPLATE/             -> Issue templates
@@ -49,6 +51,8 @@ privatebee-docs/
 ## Getting Started
 
 Before contributing, please read:
+- [Guide utilisation, Gestion et Workflow GitHub.pdf](./Guide%20utilisation,%20Gestion%20et%20Workflow%20GitHub.pdf)
+- [Guide utilisation Discord.pdf](./Guide%20utilisation%20Discord.pdf)
 - [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [GOVERNANCE.md](./GOVERNANCE.md)
 
