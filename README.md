@@ -28,22 +28,28 @@ This repository provides **documentation** on how to **contribute** to the **Pri
 
 ```
 privatebee-docs/
-├── CODE_OF_CONDUCT.md              -> Expected behavior guidelines
-├── CONTRIBUTING.md                 -> Guidelines for contributing
-├── CONVENTIONS.md                  -> Coding standards and conventions
-├── GIT-GITHUB-WORKFLOW-TUTORIAL.md -> Git and GitHub workflow guide
-├── GITIGNORE-TUTORIAL.md           -> Guide on using .gitignore effectively
-├── GOVERNANCE.md                   -> Project governance structure
-├── LICENSE.md                      -> Project license
-├── README.md                       -> Project overview and documentation
+├── CODE_OF_CONDUCT.md                 -> Expected behavior guidelines
+├── CONTRIBUTING.md                    -> Guidelines for contributing
+├── CONVENTIONS.md                     -> Coding standards and conventions
+├── GIT-GITHUB-WORKFLOW-TUTORIAL.md    -> Git and GitHub workflow guide
+├── GITIGNORE-TUTORIAL.md              -> Guide on using .gitignore effectively
+├── GOVERNANCE.md                      -> Project governance structure
+├── LICENSE.md                         -> Project license
+├── README.md                          -> Project overview and documentation
 ├── Guide utilisation, Gestion et Workflow GitHub.pdf -> Guide for using GitHub and managing the project
-├── Guide utilisation Discord.pdf   -> Guide for using Discord for communication
+├── Guide utilisation Discord.pdf      -> Guide for using Discord for communication
+├── fiches_qualite_code/               -> Code quality checklists and guidelines
+│   ├── Cheat_Sheet.pdf				   -> Cheat sheet for code quality with name conventions, commandes, etc.
+│   ├── Fiche_Qualite_Code_C.pdf	   -> Code quality checklist for C code
+│   ├── Fiche_Qualite_Code_CPP.pdf	   -> Code quality checklist for C++ code
+│   ├── Fiche_Qualite_Code_JAVA.pdf	   -> Code quality checklist for Java code
+│   └── Fiche_Qualite_Code_PYTHON.pdf  -> Code quality checklist for Python code 
 └── .github/
-	├── PULL_REQUEST_TEMPLATE.md    -> Generic pull request template
-	└── ISSUE_TEMPLATE/             -> Issue templates
-		├── bug-report.yml          -> Bug report template
-		├── config.yml              -> Issue template configuration
-		└── new-feature.yml         -> Feature request template
+	├── PULL_REQUEST_TEMPLATE.md       -> Generic pull request template
+	└── ISSUE_TEMPLATE/                -> Issue templates
+		├── bug-report.yml             -> Bug report template
+		├── config.yml                 -> Issue template configuration
+		└── new-feature.yml            -> Feature request template
 ```
 
 ---
@@ -55,6 +61,8 @@ Before contributing, please read:
 - [Guide utilisation Discord.pdf](./Guide%20utilisation%20Discord.pdf)
 - [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [GOVERNANCE.md](./GOVERNANCE.md)
+
+Please also refer to the quality code files in the [fiches_qualite_code](./fiches_qualite_code/) directory to ensure that your contributions meet the project's quality standards.
 
 ---
 
